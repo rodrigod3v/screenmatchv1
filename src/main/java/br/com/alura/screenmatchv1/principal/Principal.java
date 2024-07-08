@@ -60,6 +60,8 @@ public class Principal {
         System.out.println(dados);
     }
 
+
+
     private DadosSerie getDadosSerie() {
         System.out.println("Digite o nome da série para busca");
         var nomeSerie = leitura.nextLine();
